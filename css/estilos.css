@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: Poppins, sans-serif;
+}
+
+.content{
+    width: 1200px;
+    background-color: #e7e7e7;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+    background-color: #222222;
+    border-radius: 0 0 25px 25px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.menu{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+
+.bmenu{
+    padding-right: 25px;
+}
+
+a{
+    color: white;
+    font-family: Permanent Marker, sans-serif;
+    font-size: 20px;
+}
+
+a:hover{
+    opacity: 80%;
+    transition: 0.5s;
+}
+
+.Logo{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 55px;
+    margin-bottom: 35px;
+}
+
+h1{
+    text-align: center;
+    font-size: 72px;
+    font-family: Permanent Marker, sans-serif;
+    color: #752481;
+    margin-bottom: 30px;
+}
+h3{
+    text-align: center;
+    font-size: 26px;
+    color: #752481;
+}
+
+
+h2{
+    font-family: Permanent Marker, sans-serif;
+    color: #752481;
+    font-size: 20px;
+    margin-top: 175px;
+    margin-left: 140px;
+}
+
+p{
+    margin-left: 140px;
+    margin-bottom: 25px;  
+}
+
+.galeria{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+img.imagen{
+    margin: -4px;
+}
+
+
+
+
+img.imagen01{
+    display: block;
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    margin-bottom: 35px;
+}
+
+a.volver{
+    display: block;
+    color: #752481;
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+
+article.sobre{
+    width: 750px;;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.mifoto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+
+h2.sobre{
+    text-align: center;
+    font-size: 90px;
+    color: #752481;
+    letter-spacing: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.sobre{
+    color: #752481;
+    padding-bottom: 35px;
+    border-bottom: 3px solid #752481;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.derechos{
+    text-align: center;
+    padding: 25px;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+footer{
+    background-color: #752481;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+div.redes{
+    width: 60px;
+    height: 250px;
+    background-color: black;
+    position: fixed;
+    top: 255px;
+    left: 290px;
+    border-radius: 13px;
+}
+
+li{
+    list-style: none;
+    text-align: center;
+    padding: 10px;
+}
